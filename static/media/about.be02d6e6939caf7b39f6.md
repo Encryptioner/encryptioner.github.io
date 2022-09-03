@@ -1,0 +1,5 @@
+Hi there ✌️ nice to meet you! I'm a _Full-stack Software Engineer_ at [NerdDevs](https://nerddevs.com/) based on Dhaka, Bangladesh.
+
+I'm an enthusiastic Full-Stack Software Engineer with a passion for solving challenging problems and taking things one step ahead. I'm well acquainted with various *web & mobile software development tech* & *research methods* as well as *frontend*, *backend*, *database*, *testing* and *cloud technologies*. I have always been a firm believer in solving problem with passion and care for long term support. Therefore, I strive to follow best software development approach for developers & all stakeholders. For software development, I primarily code in **Typescript** & **Python**. For backend & frontend I mostly use **NodeJs**, **VueJs**, **MongoDB,** and other tools related to this ecosystem.
+
+In my free time, I love to travel 🌏, play cricket 🏏, read books 📖, watch movies 🎥, listen songs 🎵, explore neighborhoods through food and occasionally bring out my inner photographer 📸. Also, did someone say hiking? 🏔️
