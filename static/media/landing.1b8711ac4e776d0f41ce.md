@@ -4,11 +4,13 @@ I'm currently working with,
 
 -   Vue (TS)
 -   NodeJS & NestJS
--   Flask (Python)
+-   Flutter
 -   React Native
 -   HTML/SCSS
 -   TailwindCSS
+-   Flask (Python)
 -   WebSockets
 -   MongoDB
 -   Redis
+-   Firebase
 -   CI/CD
