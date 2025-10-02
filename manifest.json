@@ -1,15 +1,19 @@
 {
     "short_name": "MA",
     "name": "Mursalin Ankur (Lead Full-Stack Software Engineer)",
+    "description": "Lead Full-Stack Software Engineer with 6+ years expertise in TypeScript, NodeJS, VueJS, React, Flutter & AWS",
     "icons": [
         {
             "src": "logo.png",
             "type": "image/png",
-            "sizes": "512x512"
+            "sizes": "512x512",
+            "purpose": "any maskable"
         }
     ],
     "start_url": ".",
     "display": "standalone",
-    "theme_color": "#000000",
-    "background_color": "#ffffff"
+    "orientation": "portrait",
+    "theme_color": "#1a202c",
+    "background_color": "#1a202c",
+    "scope": "/"
 }
