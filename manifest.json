@@ -4,6 +4,17 @@
     "description": "Lead Full-Stack Software Engineer with 6+ years expertise in TypeScript, NodeJS, VueJS, React, Flutter & AWS",
     "icons": [
         {
+            "src": "favicon.ico",
+            "sizes": "64x64 32x32 24x24 16x16",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "logo.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "any maskable"
+        },
+        {
             "src": "logo.png",
             "type": "image/png",
             "sizes": "512x512",
@@ -12,8 +23,10 @@
     ],
     "start_url": ".",
     "display": "standalone",
-    "orientation": "portrait",
+    "orientation": "portrait-primary",
     "theme_color": "#1a202c",
     "background_color": "#1a202c",
-    "scope": "/"
+    "scope": "/",
+    "categories": ["portfolio", "professional", "software-engineering"],
+    "prefer_related_applications": false
 }

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.80fbefd4.css",
-    "main.js": "/static/js/main.0f2e96a6.js",
+    "main.css": "/static/css/main.6895e1b6.css",
+    "main.js": "/static/js/main.b35f8ae0.js",
     "static/js/928.a5595300.chunk.js": "/static/js/928.a5595300.chunk.js",
-    "static/js/194.ad9728c5.chunk.js": "/static/js/194.ad9728c5.chunk.js",
-    "static/js/158.95a85848.chunk.js": "/static/js/158.95a85848.chunk.js",
+    "static/js/194.e9243472.chunk.js": "/static/js/194.e9243472.chunk.js",
+    "static/js/158.502f664a.chunk.js": "/static/js/158.502f664a.chunk.js",
     "static/js/454.29447e53.chunk.js": "/static/js/454.29447e53.chunk.js",
-    "footer.js": "/static/js/footer.4bd3c0a4.chunk.js",
-    "featured-projects.js": "/static/js/featured-projects.40a674de.chunk.js",
-    "other-projects.js": "/static/js/other-projects.3caba8a8.chunk.js",
-    "about.js": "/static/js/about.41b68099.chunk.js",
-    "static/js/262.5241ff4f.chunk.js": "/static/js/262.5241ff4f.chunk.js",
+    "footer.js": "/static/js/footer.776bd8a0.chunk.js",
+    "featured-projects.js": "/static/js/featured-projects.55c9a5ac.chunk.js",
+    "other-projects.js": "/static/js/other-projects.6dd35638.chunk.js",
+    "about.js": "/static/js/about.b7b5f303.chunk.js",
+    "static/js/262.8c2b95ed.chunk.js": "/static/js/262.8c2b95ed.chunk.js",
     "static/js/974.1379c768.chunk.js": "/static/js/974.1379c768.chunk.js",
     "static/js/742.7f81eb19.chunk.js": "/static/js/742.7f81eb19.chunk.js",
     "static/js/958.3ba18172.chunk.js": "/static/js/958.3ba18172.chunk.js",
@@ -19,15 +19,16 @@
     "static/js/694.02214986.chunk.js": "/static/js/694.02214986.chunk.js",
     "static/js/161.a0c679b5.chunk.js": "/static/js/161.a0c679b5.chunk.js",
     "static/js/148.20c4ca4c.chunk.js": "/static/js/148.20c4ca4c.chunk.js",
-    "static/js/765.82b18267.chunk.js": "/static/js/765.82b18267.chunk.js",
+    "static/js/765.914690c0.chunk.js": "/static/js/765.914690c0.chunk.js",
     "static/media/Monsieur-Pomme.ttf": "/static/media/Monsieur-Pomme.5860767b9cc93ae9dd18.ttf",
     "index.html": "/index.html",
+    "service-worker.js": "/service-worker.js",
     "static/media/pointer2.svg": "/static/media/pointer2.547d76ae42b3659b0fbe.svg",
     "static/media/about.md": "/static/media/about.7f6df869a382d7eccb06.md",
     "static/media/landing.md": "/static/media/landing.6e28f061a9c1bd5d7cc4.md"
   },
   "entrypoints": [
-    "static/css/main.80fbefd4.css",
-    "static/js/main.0f2e96a6.js"
+    "static/css/main.6895e1b6.css",
+    "static/js/main.b35f8ae0.js"
   ]
 }
