@@ -1,31 +1,31 @@
 {
   "files": {
     "main.css": "/static/css/main.e1593ac3.css",
-    "main.js": "/static/js/main.a1f7be24.js",
+    "main.js": "/static/js/main.5e74a9fa.js",
     "static/js/928.a5595300.chunk.js": "/static/js/928.a5595300.chunk.js",
-    "static/js/194.18ad3b66.chunk.js": "/static/js/194.18ad3b66.chunk.js",
-    "static/js/158.b3c3f052.chunk.js": "/static/js/158.b3c3f052.chunk.js",
+    "static/js/194.6efdb34e.chunk.js": "/static/js/194.6efdb34e.chunk.js",
+    "static/js/158.9f782094.chunk.js": "/static/js/158.9f782094.chunk.js",
     "static/js/454.29447e53.chunk.js": "/static/js/454.29447e53.chunk.js",
-    "footer.js": "/static/js/footer.3398c66f.chunk.js",
-    "featured-projects.js": "/static/js/featured-projects.3c71387c.chunk.js",
-    "other-projects.js": "/static/js/other-projects.aec4171f.chunk.js",
+    "footer.js": "/static/js/footer.73fbe486.chunk.js",
+    "featured-projects.js": "/static/js/featured-projects.bd30d9e9.chunk.js",
+    "other-projects.js": "/static/js/other-projects.c50b062f.chunk.js",
     "about.js": "/static/js/about.362bdacf.chunk.js",
-    "static/js/262.28b91599.chunk.js": "/static/js/262.28b91599.chunk.js",
-    "static/js/974.8f70539c.chunk.js": "/static/js/974.8f70539c.chunk.js",
+    "static/js/262.a6c4bf97.chunk.js": "/static/js/262.a6c4bf97.chunk.js",
+    "static/js/396.a8fd8bd9.chunk.js": "/static/js/396.a8fd8bd9.chunk.js",
     "static/js/742.7f81eb19.chunk.js": "/static/js/742.7f81eb19.chunk.js",
     "static/js/85.f2f2753f.chunk.js": "/static/js/85.f2f2753f.chunk.js",
     "static/js/161.80340729.chunk.js": "/static/js/161.80340729.chunk.js",
     "static/js/245.21d6fc3b.chunk.js": "/static/js/245.21d6fc3b.chunk.js",
-    "static/js/765.755b965a.chunk.js": "/static/js/765.755b965a.chunk.js",
+    "static/js/765.1fe2a73a.chunk.js": "/static/js/765.1fe2a73a.chunk.js",
     "static/media/Monsieur-Pomme.ttf": "/static/media/Monsieur-Pomme.5860767b9cc93ae9dd18.ttf",
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
     "static/media/pointer2.svg": "/static/media/pointer2.547d76ae42b3659b0fbe.svg",
     "static/media/about.md": "/static/media/about.7f6df869a382d7eccb06.md",
-    "static/media/landing.md": "/static/media/landing.6e28f061a9c1bd5d7cc4.md"
+    "static/media/landing.md": "/static/media/landing.0c285b76da3acc84b838.md"
   },
   "entrypoints": [
     "static/css/main.e1593ac3.css",
-    "static/js/main.a1f7be24.js"
+    "static/js/main.5e74a9fa.js"
   ]
 }
