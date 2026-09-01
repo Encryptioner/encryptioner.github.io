@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.66c8ec43.css",
-    "main.js": "/static/js/main.4fd51cc4.js",
+    "main.js": "/static/js/main.c0aae14b.js",
     "static/js/928.a5595300.chunk.js": "/static/js/928.a5595300.chunk.js",
     "static/js/194.6efdb34e.chunk.js": "/static/js/194.6efdb34e.chunk.js",
     "static/js/158.9f782094.chunk.js": "/static/js/158.9f782094.chunk.js",
@@ -16,7 +16,7 @@
     "static/js/85.f2f2753f.chunk.js": "/static/js/85.f2f2753f.chunk.js",
     "static/js/161.80340729.chunk.js": "/static/js/161.80340729.chunk.js",
     "static/js/245.21d6fc3b.chunk.js": "/static/js/245.21d6fc3b.chunk.js",
-    "static/js/765.f75ad4a6.chunk.js": "/static/js/765.f75ad4a6.chunk.js",
+    "static/js/765.1c636dbe.chunk.js": "/static/js/765.1c636dbe.chunk.js",
     "static/media/Monsieur-Pomme.ttf": "/static/media/Monsieur-Pomme.5860767b9cc93ae9dd18.ttf",
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
@@ -26,6 +26,6 @@
   },
   "entrypoints": [
     "static/css/main.66c8ec43.css",
-    "static/js/main.4fd51cc4.js"
+    "static/js/main.c0aae14b.js"
   ]
 }
